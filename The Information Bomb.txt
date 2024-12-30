@@ -1,0 +1,135 @@
+The Information Bomb
+### Propaganda, Information, and War
+
+Thinking about propaganda, information, and war. One thing is quite obvious: there’s never been more information flooding into the system. All of it is, in some ways, propaganda of one form or another, most of it disguised as something else—opinion, advice, news, whatever.
+
+Supposedly, back in the yonder days of old, journalists would just report the facts and nothing but the facts. They would do that through these things called newspapers, which had reporters, editors, and publishers—all of whom were considered responsible for what was put out into the world. Well, those days are gone.
+
+Now, we’ve got 8 billion journalists flooding the zone with images and videos, the provenance of which is impossible to decipher. Not only impossible because there’s so much of it, but also because by its nature, information becomes completely uninteresting once it’s old. And information gets old very quickly these days.
+
+The idea that information can be used as a weapon is, of course, obvious. But I do think it’s possible to say that there are now such things as “information bombs.” Not just a vague genre of weaponized information, but an actual information bomb that explodes suddenly. And, like a bomb, once the thing detonates, it’s impossible to get the pieces back into the container—since it’s already exploded.
+
+---
+
+### Al-Ahli Arab Hospital Event
+
+I’ll take one example of such an information bomb from around a year ago. On October 17, 2023, something terrible was reported to have happened at the Al-Ahli Arab Hospital in Gaza. Over the following 48 hours or so, the information bomb exploded. At the time, this event was estimated to have involved something on the order of 50 million social media posts within just the first few days. This, plus precipitous reporting by BBC, Al Jazeera, and other mainstream media groups, resulted in huge riots in the Muslim world.
+
+**Day 1: October 17, 2023**
+
+- **6:59 PM (Local Time):** An explosion occurs in the courtyard of Al-Ahli Arab Hospital in Gaza City, resulting in casualties among displaced individuals seeking shelter.
+- **7:30 PM:** The Palestinian Health Ministry issues a statement via social media, attributing the explosion to an Israeli airstrike and reporting that something on the order of 500 people had been killed.
+- **8:00 PM:** Major international news outlets like Al Jazeera, BBC, and Reuters publish initial reports on the explosion, citing statements from Hamas officials and highlighting Israeli military involvement.
+    - For many observers, this is the key moment: a respected media player like the BBC uncritically spreads the contagion of Hamas propaganda. This is the virality moment that explodes the information bomb.
+- **9:00 PM:** The Israeli Defense Forces (IDF) release a statement denying responsibility for the explosion, suggesting it was caused by a misfired rocket launched by Palestinian Islamic Jihad (PIJ).
+    - According to Israeli critics of the IDF, the hour and a half it took for them to react to the initial information attack was too long, and the game was pretty much already over.
+- **10:00 PM:** Social media platforms are flooded with images and videos allegedly from the mass casualty scene at the hospital, with hashtags related to the incident trending globally. Protests erupt in various Middle Eastern cities by 11:00 PM.
+
+**October 18, 2023**
+
+- Around midnight, the IDF holds a press conference, presenting preliminary evidence, including radar data and intercepted communications, to support their claim that the explosion was due to a misfired Palestinian Islamic Jihad rocket.
+- U.S. President Joe Biden, in Israel at the time, issues comments on the incident at 8:00 AM, stating that U.S. intelligence supports the IDF's assessment.
+
+**October 21, 2023**
+
+Three days later, Human Rights Watch releases a comprehensive report confirming that the explosion was caused by a misfired rocket from a Palestinian armed group, urging all parties to exercise caution to prevent civilian casualties. But by then, it’s too late. The damage is done.
+
+A Palestinian Islamic Jihad rocket misfired and landed on the hospital parking lot, killing not 500 people but at most a dozen. But that’s not what exists in the record of most people’s minds. All they remember is that the Israelis killed innocent civilians.
+
+Propaganda today isn’t just about pushing a narrative; it’s about flooding the space with so much content that discerning the truth becomes exhausting and pretty much impossible for most people. So, let’s just agree that the information bomb is highly effective.
+
+---
+
+### The Takeaways
+
+There are a couple of things I’d like to take away from this Al-Ahli Arab Hospital Event. Handling such a situation requires a prerequisite understanding of the information bomb as a weapon of war, and not just some accident of “virality.” Too many institutions are stuck in an ancient and false understanding of information as a phenomenon existing on some spectrum of truthfulness.
+
+This focuses too much on information’s “qualities” while ignoring more formal aspects like its quantity and speed. Information has velocity and impact, not just a character of being more or less close to some objective truth. It’s always going to be too late to figure out what actually happened, and by then the information has already had its impact. The bomb has exploded.
+
+There is a huge difference between the ways in which information impacts today and how it did so prior to widespread smartphone and internet use. Previously, the expectation was that the quality of information would be the important thing—was it convincing or unconvincing information? Was it misinformation or disinformation? Was the enemy attempting to deceive you, or were you succeeding in deceiving the enemy?
+
+The problem with these terms is that they focus on the information’s content, which ignores the formal aspect of information: its velocity and its quantity. It’s easy for us to see now that organizations like the BBC and Reuters were simply overwhelmed by the attack, institutionally incapable of articulating the incoming information and putting it through the appropriate analysis.
+
+They became, in effect, simple mirrors—participants in the information attack who reflected and amplified the explosive contents. They became components of the information bomb. In other words, they became exactly the opposite of what they presumably wish to be: a neutral arbiter of truth in the world.
+
+---
+
+### Information
+
+Information takes on myriad forms, independent of content. Information isn’t news, but news is information. An email is information. A bullet fired is information. A punch in the face is information. A genetic sequence is information. DNA is an information system. Warfare is an information system.
+
+Information isn’t news, or a letter, but it can hit you like a punch in the face. It’s got impact. And sometimes, there isn’t any such thing as bad information or good information—there’s just information coming at you faster than you can handle it.
+
+A quick and dirty definition of information could be **a signal that has an effect upon its recipient**. You can think of that signal as an email, a phone notification, a raindrop, a bullet, or a smell. Information is dynamic. It changes the recipient and alters their system. It’s just a matter of how much.
+
+Clearly, in this sense, the information universe is greatly expanded out from social media, and media more generally. For example, nutrients that come into contact with an organism have informational qualities, acting as biochemical signals which dynamically change that organism. Here, I’m focused more upon the kind of information usually transmitted over media vectors like the internet, radio, television, etc. But to confine the phenomenon to media would be very reductive.
+
+Much of life is informational. There is information at every level of existence.
+
+---
+
+### The Internet
+
+Obviously, with the internet, information of the mediatic kind has become very unequally distributed. And nowadays, it can be quantified as well as qualified. Visualize a global map showing internet connectivity. The brighter the spot on the map, the more internet they’re getting.
+
+North America and Europe glow brightly. Africa, South America, and the Asian interior are dark. The edges of continents are more connected than the interior. The dark spots aren’t totally devoid of internet connection; they’ve just got a lot less of it.
+
+China shows up as a dark spot on our map because the internet there is subject to what’s called “The Great Firewall,” a comprehensive system of internet censorship and regulation implemented by the Chinese government to control and monitor online activity within the country.
+
+I don’t often think about this great firewall, and it seems to be true that many Chinese get around it with VPNs or whatever. But it’s easy to forget that computer acrobatics, like using a VPN, are usually out of the reach of the vast majority of people. Normal people just switch on their box and get what they get.
+
+Which brings me back to information inequality.
+
+---
+
+### Informational Inequality
+
+Let’s consider a kind of baseline information flow among people without access to the internet. So, no internet—what kind of information is going on?
+
+We have word of mouth, gossip, phone calls, radio and television, the natural world, and regular interactions with actual people. That’s still going to be a lot of information. But you factor in the internet and suddenly you need to add a lot more zeroes to whatever number you put on it.
+
+In other words, the internet exponentializes information flows. Which means that places with more internet don’t only have a little more information; they’ve got a hell of a lot more information. And in a sense, the more information flows you have in a political entity like a country, the more susceptible you are to being damaged by an information bomb.
+
+The reason that the Chinese Communist Party put a Great Firewall in place was to defend against information attack. And a country with shitty internet is just less vulnerable to an information bomb than a country with excellent and free internet.
+
+Iran, China, and Russia can really mess up the Israelis and the Americans with information bombs, while being better protected themselves from attack. In fact, as far as I can see, the Americans and Israelis are currently being driven completely nuts by a continuous assault of information bombs.
+
+---
+
+### Information Overload
+
+So yes, information is unequally distributed. And it can be quantified as well as qualified. That is to say, you can count information, just like you can judge it. You can say misinformation or disinformation—which is only ever deemed a problem after the fact, when there’s been too much of it.
+
+You’d think that more information is better than less, but that’s not so clear. Having too much can be bad as well. You open yourself up to massive info-assaults. More information means more signal, and more recipients receiving a signal. Each signal has its effect—on each and every recipient. Like a punch in the face. Which drives everyone nuts at the same time, irrespective of the signal’s content.
+
+Each recipient of a series of signals is changed by the material force of the information. A multiplication of signals equals a multiplication of those effects. You can call this information overload.
+
+How much information can a person handle without going batshit crazy? How much information can a group of people handle without getting deranged?
+
+---
+
+### Misinformation and Disinformation
+
+So what about misinformation and disinformation? What about fake news versus real news? These are questions around the quality of information that ignore questions of quantity. While we’re arguing about bad information, we’re blind to how the exponentialization of information drives the weak into serious delirium.
+
+Places with a higher density of information are more susceptible to the deranging effects of information overload than places that are less information-dense. People with highly developed information immune systems are less susceptible to the deranging effects of information war than those who lack a certain info discipline or whose parents didn’t give them an info-education. Because the last place you’ll ever build up your info-immunity is in school or university.
+
+---
+
+### IN FORMATION
+
+Of course, we’re forgetting one thing: the breakdown of this word INFORMATION.
+
+**In-formation.**
+
+We are informed, or ill-informed. You can break that out: in-form-ed. Formed, changed, adjusted in real-time, created on the fly. People are in-formed by information. More or less in-formed. By information.
+
+A signal hits the recipient. Who is informed by the information. The effects ripple out from an individual to groups. Places that are more information-dense are more vulnerable to the detonation of an information bomb.
+
+Going back to the Al-Ahli Arab Hospital Event, clearly, this information bomb was not exploded in Gaza. The initial explosion focused upon the BBC, Reuters, and others. The secondary explosions were more devastating than the initial blast.
+
+Essentially, the mainstream Western press was used as a kind of high explosive to trigger a more viral chain reaction of social media events. Hundreds of millions of images and videos and hashtags and commentaries—endless, infinite amounts of information flooding the zone and rendering actual thought impossible, unthinkable.
+
+The very strength of connections to information vectors is a weakness in this regard. In other words, places with higher information density actually fund and structure their own information allergies.
+
+Which is why the information bomb is such a powerful weapon. How much longer will we remain defenseless? This seems to be a real conundrum!

@@ -1,0 +1,197 @@
+What Really Matters When You’re Writing A Novel?
+
+It’s a little weird, but these days it seems that I run into aspiring authors online, almost as much as readers. And often they’re the same, avid readers who also want to be authors.
+
+Which makes a lot of sense because possibly the one pre-requisite for writing well, is reading copiously. 
+
+I probably spent the first decade and a half of my life reading. We had no TV and there was no internet, so it was books books books books books.
+
+I had my father’s library downstairs in the basement, the regular library, and then if I was really out of options I seem to remember that the convenient store down the road had a book rack filled with trashy novels, thrillers, westerns, and romance. 
+
+I don’t remember reading any romance books, and I’ve only recently gotten into westerns.
+
+So, it was thrillers. Noir. Maybe some science fiction now that I think about it.
+
+Anyway, get back on track Jack!
+
+I’ve been writing for several years now, and I’ve had some experience with it.
+
+And because aspiring authors are so online these days, I’m exposed to questions and, unfortunately, some of the bad advice that’s out there.
+
+I never respond to any of this stuff online, because everyone’s got their own methods and techniques. What works for me might not work for you. And what is obvious to me, might be obscure and un-useful to you. 
+
+But, here goes.
+
+### Finishing is Important
+
+The first thing that really matters, when you’re writing a novel, is finishing it.
+
+Duh. Sad but true. Most people who start, don’t finish. And that way you’ll never write your novel. 
+
+Better to have a bad novel that you’ve written than a great novel that you haven’t written. 
+
+At least you learn from a bad book. I’ve got two books that were never published. They sit in a drawer called hope.
+
+### **Writing Style and Voice are important.**
+
+I’d say that these are the same thing, at least functionally. My favorite example of voice and style is Elmore Leonard. There’s a great interview he did with Martin Amis (also an excellent writer by the way). I’ll just snag a couple of quotes from it…
+
+> *AMIS: I want to ask about your prose. Your prose makes Raymond Chandler look clumsy. Now the way I do it is: I say the sentence in my head until nothing sticks out, there are no “elbows”… With you, it’s all planed flat. How do you plane your prose into this wonderful instrument?*
+> 
+
+> *LEONARD: First of all, I’m always writing from a point of view. I decide what the purpose of the scene is, and at least begin with some purpose. But, even more important, from whose point of view is this scene seen? Because then the narrative will take on somewhat the sound of the person who is seeing the scene. And from his dialogue, that’s what goes, somewhat, into the narrative. I start to write and I think, “Upon entering the room,” and I know I don’t want to say “Upon entering the room.” I don’t want my writing to sound like the way we were taught to write. Because I don’t want you to be aware of my writing. I don’t have the language. I have to rely upon my characters.*
+> 
+
+So, instead of writing “Upon entering the room”, Leonard will start straight into a point of view. 
+
+Here’s a clip out of Leonard’s book “Rum Punch”. Ordell enters a bail bondsman’s office. As you’ll see, it’s immediately from his point of view. There’s no, “Ordell entered the room” bullshit.
+
+> This looked more like the man's den than a bail bond office: a whole wall of shelves behind where Max Cherry sat with books on it, all kinds of books, some wood-carved birds, some beer mugs. It was too neat and homey for this kind of scummy business. The man himself appeared neat, clean-shaved, had his blue shirt open, no tie, good size shoulders on him. That dark, tough-looking type of guy like Louis, dark hair, only Max Cherry was losing his on top. Up in his fifties somewhere. He could be Eyetalian, except Ordell had never met a bail bondsman wasn't Jewish.
+> 
+
+Curiously, Leonard begins with what could be a third person omniscient point of view:
+
+> This looked more like the man's den than a bail bond office
+> 
+
+But it quickly gets first person. You’re hearing Ordell speaking in his head…
+
+> It was too neat and homey for this kind of scummy business. The man himself appeared neat, clean-shaved, had his blue shirt open, no tie, good size shoulders on him.
+> 
+
+Clearly these are Ordell’s opinions now. An omniscient narrator probably wouldn’t have an opinion on the nature of the bail bondsman’s business. Ordell thinks it’s scummy.
+
+The style here is characterized as **free indirect discourse**. 
+
+Elmore Leonard isn’t the only well known author to write in **free indirect discourse**.
+
+Jane Austen, Virginia Woolf, Flaubert, Tolstoy, Kafka, many writers use this mode of address as a way of shifting from an omniscient narration to a more personal register, getting into the head of a character and seeing the world from their point of view.
+
+I do it myself by the way. And love writing that way. When I was writing my fourth book, Hard Candy, I struggled with the third person and it took me a while to find my voice. 
+
+Here’s an example of Free Indirect Discourse from Hard Candy:
+
+> Candy moved around the room, sipping coffee. She managed to make small talk with a woman who looked like a vampire. In the movies, vampires are immortal, frozen at the age they were bitten. If so, this woman had been bitten in her early fifties. Turned out she was the founder of a crypto company developing an application for tallying votes. Candy listened to her detailed technical explanation of consensus rules and managed to drift away gracefully.
+> 
+
+Now, the danger here is that you might head hop, like if the next paragraph was in that crypto woman’s head. You’ll want to keep each chapter or section to a single character’s perspective if you use Free Indirect Discourse.
+
+So, that’s just one example of voice and style, and I think you can probably agree that it’s important. 
+
+---
+
+### Character
+
+Another thing that really matters when you’re trying to write a decent novel is character.
+
+Elmore Leonard said something interesting in that little interview snippet, about character.
+
+He said, “*I don’t want you to be aware of my writing. I don’t have the language. I have to rely upon my characters.”*
+
+Which I agree with, and, I think provides a key to understanding what character is and what it’s not.
+
+So, what does character do?
+
+Clearly, fictional narratives are about people doing things and interacting with each other. Or at least they should be. Even when it’s animals, like in Animal Farm, they need to be anthropomorphized for it to engage a human reader.
+
+So in that sense, all narration emerges from people acting and interacting.
+
+The actions and interactions of characters have two results.
+
+- One is the creation of plot.
+
+In a well written novel, plot is revealed and inferred from the actions and interactions of characters. The people in the story do things. Story isn’t just something that happens to them. 
+
+It’s always much more engaging and surprising when plot emerges from character’s actions. 
+
+The actions that people perform in the course of a narrative has a second effect after plot.
+
+- Which is the creation of character.
+
+It’s one thing to have a character named Lily. But at what point does she truly become **a character**?
+
+At what point can you say about Lily, “What a character!”
+
+People ***become*** characters when they do surprising things. But, not when they do ONLY surprising things. 
+
+Unless your character’s insane or something. 
+
+Usually, a character is a person who’s accumulated actions in the story, demonstrate a certain consistency. Like they’ve got a kind of habitual way of doing things. 
+
+And once you developed consistency, you break it with surprise.
+
+When the character does something differently, maybe she does something “Out of character”.
+
+Once Lily has demonstrated consistency by, say, ordering two eggs over easy with bacon and hash browns, well done with a side of rye toast, unbuttered please with black coffee-  for three mornings in a row at the diner, you can deepen her as a character by having her order a poached egg with tabasco sauce on the side and a chocolate milkshake on day four.
+
+You set up consistency in order to generate surprise.
+
+Which can easily become a plot point if the author is paying attention to this kind of thing!
+
+Maybe she’s pregnant, or maybe she’s about to kill her room mate. Who knows.
+
+So, character is important to consider.
+
+And as we can see from the Elmore Leonard example of style and voice. Both voice and character can be brought together. 
+
+### Setting
+
+The setting is in some ways a kind of character.
+
+One way that this manifests itself is in the fact that characteristics of a particular place can have agency in some ways.
+
+For example, consider that you’re in a place where it’s common to have high winds in the winter. 
+
+Or where it can snow for a week at a time.
+
+Or it’s a mountainous region where it’s really tough to travel between villages.
+
+These characteristics force and constrain the actions of your characters. In this sense, the landscape itself is a character. 
+
+The high winds can make it too dangerous to drive.
+
+The snow can obliterate roads and trails and make it really easy to get lost.
+
+The steep mountains are more suitable to locals than to outsiders. So, the locals have a big advantage in any conflict that might arise.
+
+See what I mean?
+
+The setting and landscape are characters, and weather is part of that of course. 
+
+But just don’t talk about it too much, unless it’s DOING something. 
+
+### Plot
+
+Maybe you’ve noticed that I’m not mentioning plot on its own. 
+
+Isn’t that interesting? 
+
+We can take care of plot by talking about voice, character, and setting. Once we’ve spoken about those things, we’ve actually almost already spoken about plot.
+
+What more is there to say?
+
+Well, whatever it is we’re going to leave it for another day.
+
+### What we didn’t discuss
+
+What we didn’t discuss is structure and backstory.
+
+Because there isn’t so much to discuss. Those things don’t matter.
+
+I’m being a little flippant here, because structure exists by default. 
+
+What I mean by that is, since the novel is a linear form, with a beginning and an end, by its very nature it’s going to have a middle. But, I’m going to suggest to you that it isn’t important to think too hard about that. 
+
+Yes, it needs to begin.
+
+Yes, it needs to end.
+
+Yes, between those things a middle will appear.
+
+But is that really something that an author has any control over?
+
+You focus on the other stuff, and make it good.
+
+And you actually complete the mission and finish writing the novel, or play, or script, or whatever.
+
+And then you’re good, and you start the next one.

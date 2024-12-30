@@ -1,0 +1,452 @@
+Crypto Politics
+### Intro
+
+The recent US election is a gift that just keeps on giving.
+
+Just one of the many surprising things emerging from this exercise in democracy, is the return of Crypto. 
+
+Not that it ever really went away. Only, that the conversation about it seemed to sort of stagnate.
+
+Now it’s back. 
+
+It looks as though crypto billionaires have managed to buy influence in the white house.
+
+Not that I’m saying this is a bad thing!
+
+Perhaps technological developments have a life of their own. 
+
+And are more or less sped up or slowed down.
+
+Weaving in and out of the human social processes.
+
+Slipping and sliding in and around political fashion and trends. 
+
+But, more importantly, not going away. Stubbornly resisting critique, technophobia, and modern day luddites.
+
+Since the US election, the value - in US dollars - of top crypto tokens like Bitcoin and Ethereum, have jumped 40 to 45 percent. who knows where it will be by the time you hear this. Maybe higher, maybe lower.
+
+New crypto Billionaires might be being minted as we speak, and crypto millionaires might get recked by tomorrow.
+
+Also, don’t forget that volatility is considered valuable on Wall Street!
+
+---
+
+### More than Money
+
+I’ve been curious about crypto from the beginning and even bought a slice of bitcoin about ten years ago. Unfortunately, I used it for illegal purposes and now it’s all gone.
+
+But, the experience did lead me to research what the stuff was, and how it worked.
+
+I always wondered why it was that this crypto thing is a hate object for some, and a fetish for others?
+
+I have come to understand, that while it works as a kind of currency, it’s not only that, or let’s say..
+
+It’s more than money.
+
+Which is probably why it’s quote unquote, “Politicized”. 
+
+I now understand crypto as a set of ideas and even as a philosophy. A way of thinking about truth in the world. 
+
+But crypto doesn’t remain theoretical, it’s operational, a technology that is internet native. It can only exist online, but any group of people with computers and the right cables and software can keep the network going. It’s virtually impossible to get rid of it.
+
+Which, is just one of the reasons why this thing is fascinating.
+
+And, why some institutions find crypto to be a threat. 
+
+Because, It’s out there in the world, working hard. 
+
+### The China Ban
+
+China has banned crypto. They’ve banned its exchange online, and it’s production through the process called ‘mining’. 
+
+Chinese banks and financial institutions are banned from offering crypto services. 
+
+China’s not alone in doing this.
+
+You just need to look at the list of countries who have banned crypto in order to understand the kind of challenge this technology poses to authority.
+
+Algeria, Bangladesh, Egypt, Iraq, Morocco, Nepal, Afghanistan all have strict bans.
+
+Turkey, Indonesia, Pakistan, and India have more nuanced bans.
+
+Capital flight is just one problem for these sovereignties…
+
+Imagine you’re living in Egypt and somehow get lucky enough to have some left over funds to put away for the future. Would you rather put that into the local bank, or into an internet native techno-sovereignty where nobody can touch it and its value isn’t pegged to the Egyptian pound?
+
+Let’s keep all of that in the back of our minds as we get into what this stuff is, what it does, and what it promises and threatens.
+
+---
+
+### Store of Value
+
+Get off a plane in Turkey, Iran, Argentina, Nigeria, or Lebanon, and you’re liable to see huge billboards advertising crypto services. 
+
+This is when you begin to realize that, while a novelty of sorts for most people in the US, or Europe, there are places in the world where it’s seriously helpful, perhaps a life saver.
+
+Countries like Turkey, Argentina, Iran, Nigeria and Lebanon have unstable national currencies, making it unsafe to keep your savings in a bank account.
+
+Crypto currencies like Bitcoin offer a store of value for money that is not tied to a nation state and potentially corrupt or failing institutions.
+
+While the dollar remains the world’s reserve currency, held by banks and governments, crypto seems to be becoming the people’s reserve currency. 
+
+Bitcoin, for example, is a global peer to peer network. It is neither national or truly institutional.
+
+The only requirement for holding bitcoin is access to the internet for the time it takes to set up a crypto wallet, some money to buy it with, and a piece of paper on which to copy down your secret wallet address.
+
+Once you have your secrete code you can go offline and live your life. If you memorize your secret wallet details, you never need to write anything down. If you ever want to cash out, you find an internet connection and connect to the network.
+
+Unlike dollar bills hidden in the mattress, it’s easy to deny that you own bitcoin when the dictator’s police break down your door. 
+
+---
+
+### The Production of Truth
+
+As such, the very existence of crypto represents a serious challenge to human collectives as they’ve been structured historically.
+
+I’m talking here about authority of course, and more specifically the way that a human collective allows truth to be produced.
+
+I’m aware that this is probably not an intuitive thought, that truth is something that gets produced.
+
+But, you’ll probably agree with me when I say that even if there is such a thing as objective truth, you usually need someone to verify that it is, indeed, true.
+
+This process of verification is what I mean by the “production of truth”.
+
+Those who are entrusted with the verification of truth eventually take for themselves a position of authority. It’s almost the definition of authority.
+
+Which is why crypto is a challenge to authority. 
+
+Because, crypto says, ultimately, that the truth is available without an authority. It says, we can now do without authority. We can do without permission. We can do without trust.
+
+The challenge of crypto, like the ramifications of the internet and computing more generally, are only revealing themselves slowly in drips and drabs.
+
+Some people are already living in 2035, projecting themselves into a crypto future.
+
+I’m not saying that this crypto future is a fatality. It could be stopped by the crushing power of an angry sovereign state. But, you look at China… a sovereign state with no qualms about using their crushing power. They’ve banned crypto. Do we care?
+
+One door closes and another opens.
+
+Go to polymarket.com
+
+Type in “china, bitcoin”. You’ll see the current odds on China unbanning crypto.
+
+Does anyone think that the Chinese government is simply ignoring crypto? No way. They’re simply blocking their people from accessing it.
+
+Why?
+
+---
+
+### The Double Spend Problem
+
+To start, I think it’s necessary to take a look at the reason that anyone wanted to invent crypto currencies in the first place.
+
+Fiat currencies like the dollar or the euro are no longer pegged to gold, or to anything else that might make them sort of.. material.  
+
+They are already digital currencies.
+
+It turns out that digital currencies have a problem not faced by physical currencies, like a Fort Knox filled with cash dollars, or gold.
+
+The initial problem of a digital currency is known as the double spend problem.
+
+Let’s call it DSP.
+
+In physical currency systems, the tangible nature of coins and bills prevents double-spending. When you hand over a physical dollar, you relinquish possession, preventing you from spending it again.
+
+Digital things, however, are fundamentally different. They are essentially information, which can be easily copied and pasted and spent multiple times by malicious actors.
+
+The way that they get around the double spend problem, the DSP, is by relying on "trusted third parties" to verify the transactions. 
+
+Call it the daddy mommy problem. You need an authority figure to make sure the game is being played fairly.
+
+Like, if you are paying for a hot dog at the hot dog truck, the deal is not just between you and the hot dog truck. A third party gets involved to verify and permit the transaction.
+
+This third party may be a bank, or it may be Visa or Mastercard.
+
+All of these third party solutions rely upon centralized verification processes. 
+
+But, that all happens behind the scenes and you don’t have to see it happening. You just pay for your hot dog with a card and get on your way, right?
+
+So, why is it a problem to have these trusted third parties involved in verifying transactions between people? Two reasons that are related.
+
+1. It introduces a single point of failure. If the central authority fails or is compromised, the entire system is at risk.
+2. It concentrates power, potentially limiting access and control over the currency.
+
+Which is almost a continuation of the first problem. If the authority figure is unreliable, fickle, or biased, it can become very problematic indeed.
+
+Remember the trucker strike in Canada during Covid? The state decided to freeze the protestor’s assets and to de-bank the so called “movement”. 
+
+Regardless of how you feel about the Truckers and their supporters, this is surely a case where the concentration of power held by a third party to financial transactions is exposed for all to see.
+
+In 2010 Wikileaks was effectively de-banked. Visa, MasterCard, PayPal, and the Bank of America, stopped processing donations to the organization. They went to crypto.
+
+Hong Kong protesters in 2019 were de-banked by the Chinese government.
+
+---
+
+Centralized digital currencies have serious potential for abuse in any government’s hands, not just China.
+
+Solving the double spend problem makes such authority unnecessary. 
+
+This is where crypto enters the scene.
+
+An anonymous author named Satoshi Nakamoto published a white paper in 2009. This short document, titled **Bitcoin: A Peer-to-Peer Electronic Cash System** outlined a solution to the double spend problem**.** 
+
+The solution is known as the **Blockchain**.
+
+No doubt you’ve heard that term before!
+
+### White Paper
+
+Here is a quote from the abstract of Satoshi Nakamoto’s white paper.
+
+> A purely peer-to-peer version of electronic cash would allow online
+payments to be sent directly from one party to another without going through a
+financial institution. Digital signatures provide part of the solution, but the main
+benefits are lost if a trusted third party is still required to prevent double-spending.
+We propose a solution to the double-spending problem using a peer-to-peer network.
+The network timestamps transactions by hashing them into an ongoing chain of
+hash-based proof-of-work, forming a record that cannot be changed without redoing
+the proof-of-work.
+> 
+
+---
+
+### The Solution: Blockchain
+
+Bitcoin solves the DSP without relying on a trusted third party. Its solution is based on a decentralized, public ledger called the blockchain.
+
+You can think of the blockchain as a kind of accounting software.
+
+A whole bunch of people run this software on their computers, linked up by the internet.
+
+This is the peer to peer part of it.
+
+Each instance of this software, on one computer and on all others, is synchronized so that every node has got an updated record of the whole system. Each BLOCK of transactions are verified and added to a chronological chain of blocks. 
+
+Which is why it’s called the **Blockchain**.
+
+All of the important actions on the blockchain use cryptography to get around the need for verification by a third party. That’s the hashing part…
+
+Since everyone’s got the same version of the blockchain, all the transactions are publicly verifiable and transparent. You can’t hide a transaction on the blockchain.
+
+---
+
+### Permission-less Systems
+
+True Crypto is permission-less. This means only exactly what it says. You don’t need anyone’s permission to do anything on a truly decentralized blockchain. 
+
+Take the simplest example. You want ten thousand dollars wired to an account in Nigeria right now. Imagine doing that with your current normie bank account. How long would that take? How many phone calls to customer support? 
+
+The answer’s actually interesting. 
+
+If you were wiring ten million dollars, you’d probably only need a single phone call to your private banker.
+
+For ten thousand dollars you’d probably get lost in some shitty automated system for the plebes and wait ten days for permission.
+
+Back to crypto. 
+
+On a permission-less blockchain there’s no one to ask. You couldn’t get permission even if you asked for it. 
+
+---
+
+Take another and more interesting example. 
+
+You want to create an ai agent and give it access to funds. You want this ai agent to hire influencers on social media and be able to make micro-payments as it sees fit, without bothering you about it. 
+
+I mean, the idea here is to create a relatively autonomous ai agent that can actually make decisions right? 
+
+Well..
+
+Imagine the horror of trying to do this with your existing fiat currency setup. How would that work? Could it actually work? Who would allow this ai account access to actual funds? How long would it take for your bank’s crappy and paranoid ai fraud system to spot the thing and shut you out of your account?
+
+How long would it take to get back into your own account?
+
+The answer is, no, probably not, and forever.
+
+Right now there are ai agents on the blockchain with their own crypto wallets. They are doing their own transactions, both between ai agents and between agents and human users. 
+
+It’s actually happening. No permission, no trust.
+
+A lot of crypto gets lost and stolen of course. It’s a wild world. No permission, no trust, no safety net.
+
+---
+
+### **The Big Picture**
+
+Let’s zoom out for a moment and see what it is that we’re actually talking about.
+
+Taking bitcoin as our example, what does this thing look like in material terms?
+
+The Bitcoin network is a globally distributed system supported by an infrastructure of hardware, electricity, and physical nodes.
+
+As of November 2024, the network consists of approximately 47,500 **nodes**.
+
+Each full node stores the complete Bitcoin blockchain. This is pretty important to get into our brains. It’s not that every full node has a copy of the blockchain. There is no original. Each node has an instance of the entire blockchain.
+
+Therefore, if all nodes but one are destroyed, the network lives on.
+
+Bitcoin nodes rely on physical hardware, ranging from personal computers to dedicated servers.
+
+The entire network is thought to consume around **120 terawatt-hours** annually, equivalent to approximately **0.5% of global electricity usage**. 
+
+### Un-killable
+
+For a sense of the geography of bitcoin, you can go to a website like bitnodes.io
+
+There, you can see a live map of bitcoin network activity. 
+
+Looking at the map, and the fact of a majority of the network activity hidden in anonymous systems, you definitely get the feeling that bitcoin is un-killable. 
+
+Which is a claim often made by bitcoin people, when faced with the periodical calls to crack down on the crypto networks. 
+
+Indeed, one government or alliance of governments could make it illegal, but it’s hard to see how that would be effective, barring a much more complete clampdown on the internet more generally. 
+
+One door closes, another opens.
+
+If Bitcoin and its ilk are here to stay, we should perhaps consider what that means as a political model. 
+
+### **Trustlessness**
+
+There are quite a few political models that rely heavily upon trust. Or, mobilize around the concept of trust as a positive and democratic goal.
+
+Deliberative democratic models like citizen assemblies, and participatory government experiments rely upon trust.
+
+Social welfare state systems rely up on trust. It’s well documented that when trust between people breaks down, they become less willing to do their part. Why pay into a welfare system that others are abusing. 
+
+Anarchist models reject centralized authority and instead promote voluntary cooperation, mutual aid, and self-organization. These models depend on trust between individuals to act responsibly and reciprocally without a governing authority enforcing rules.
+
+What crypto models offer is something quite radically different to trust.
+
+Trustlessness.
+
+A network like bitcoin allows you to verify something without requiring a trusted third party. 
+
+The entire apparatus itself is understood as a technology of trustlessness. 
+
+**That’s the political philosophy emanating from crypto. Trustlessness.** 
+
+If, in the old world, trustworthiness was a virtue, in the crypto world trustlessness is a virtue and trustworthiness is inherently suspicious.
+
+Like, why would I actually need to trust anyone.
+
+The bitcoin network is a technical infrastructure that enables relations of trustlessness. 
+
+Or..
+
+The bitcoin network is a technical infrastructure that produces relations of trustlessness. 
+
+You choose.
+
+You no longer need to trust anybody or anything, because the network is beyond trust.
+
+As such, it is possible to understand crypto as a practical tool that bridges the gap between theories of The Sovereign Individual, and philosophies of Libertarianism. 
+
+---
+
+### The Sovereign Individual
+
+As we contemplate the vision of Elon Musk - the richest man in the history of the world - arm and arm with the president of the United States, we can glance back at a book written in 1997 by investment bankers, Lord William Reese Mogg and James Dale Davidson.
+
+**The Sovereign Individual: Mastering the Transition to the Information Age**
+
+It’s a pretty prescient book. Remember that this was written back before the internet was really happening. Before web 2.0 even. 
+
+They define the information age and theorize that this shift will move power away from sovereign states - centralized authority - towards individuals.
+
+Because of the new possibilities inherent in digital tools - ie blockchain technologies - individuals can more easily choose their jurisdiction and avoid perceived predatory behavior like taxation.
+
+Wealth dematerializes and can therefore be easily transferred. Power becomes essentially portable within memory. 
+
+The decline of fiat currencies coincides with the rise in private, decentralized currencies. 
+
+If the Industrial Age created mass wealth and a middle class; the Information Age reverses this trend.
+Inequality is massively increased as wealth shifts to those - like Elon Musk - who adapt to the new age.
+
+You can think of Musk as a super predator, currently feeding from the zombie corpse of the American state.
+
+Then you wonder about Donald Trump. 
+
+Is this a government which is dedicated to the state’s demise?
+
+Of course the risks are enormous in this epochal shift. 
+
+Instability, the fragmentation of sovereign states into micro-states, or digital nations offering customized citizenship packages. 
+
+All of that would potentially invite a great deal of violence amid the thrashing vengeance of dying state powers. 
+
+How far along are we in this process?
+
+---
+
+The current market capitalization of crypto in all of its forms is around 3 and a half trillion dollars. 
+
+The US dollar’s money supply is something like 23 trillion bucks. 
+
+So, crypto’s around 15% of that.
+
+Not bad, but not so close either. 
+
+If you think of crypto as some like to do - as a form of digital gold - then we can understand one form of its power in a simple way.
+
+If in the past an individual had to transport their gold from one jurisdiction to another more friendly one, today it’s simply a hell of a lot easier to transport your gold.
+
+All you need to do is memorize a pass phrase. 
+
+---
+
+Maybe the most interesting thing about this book is that it’s pretty influential. 
+
+True believers in crypto cite the **Sovereign Individual**. Sort of like… if you want to understand the present and the future read this book.
+
+It’s captured many imaginations, that’s for sure. 
+
+A future break out of crypto networks like bitcoin could in theory render political borders obsolete, at least for economic purposes. 
+
+It’s true that the market cap of crypto is only 15% of the US dollar.
+
+But five years ago it was 1,643% less. 
+
+Yes.. you got that right. Crypto’s market capitalization has increased by 1,643% in the past five years. 
+
+So what’s going to be the situation five years from now? 
+
+Nobody knows. 
+
+What we do know is that at the very least, the **dream** of the **Sovereign Individual** is potentially realized with the material existence of crypto networks. 
+
+Well, at least it makes it easier to theoretically exist as a financial sovereign. 
+
+---
+
+Anecdotally, I have heard of several people who just travel the globe, checking into the crypto world once in a while to stock up on cash. This of course is a minority positions, and presumably will remain so. 
+
+It might make apprehending fugitives more difficult, if they can stay off the financial grid through the use of crypto currencies. 
+
+Still, the question remains of this breaking out to become a mass phenomenon. 
+
+It’s hard to imagine that sovereign states just rolling over and watching as their power is leached by a bunch of wanna be Sovereign Individuals. 
+
+No doubt the “state” will attempt to survive. 
+
+But then again, you look at Musk and Trump and it makes you wonder. 
+
+I wouldn’t bet against a violent reaction from the state. 
+
+Next time you see some kind of authoritarian anti-globalist situation, either at home or abroad. 
+
+Some conservative, inward looking movement that favors a strong sovereign.
+
+Consider crypto and the challenge that this stuff poses to traditional state power.
+
+Well… I guess we’ll see how it all shakes out. 
+
+Until then, maybe you’re better off going and getting yourself a couple of Satoshis worth of crypto while you still can!
+
+If not for you, do it for your grandkids. You never know…
+
+### Related Links
+
+https://bitcoin.org/bitcoin.pdf
+
+https://etscrivner.github.io/cryptocurrent/
+
+https://en.wikipedia.org/wiki/The_Sovereign_Individual
