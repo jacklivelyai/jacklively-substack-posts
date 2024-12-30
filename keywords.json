@@ -1,23 +1,100 @@
 keywords.json
 
+
+
+
+
 {
     "keywords": [
-        "October 7th attacks", "Hamas massacre", "Liberal democracies",
-        "Pluralist societies", "Western values", "Nihilism in discourse",
-        "Globalized cities", "Sovereign states", "Open societies",
-        "Sectarian divisions", "Middle East conflicts", "Political identity",
-        "Public reaction", "Humanitarian values", "Failed states",
-        "Ethical relativism", "Non-state actors", "Urban living",
-        "Smart phone culture", "Sonic space", "Modern consciousness",
-        "Podcasting", "Auditory hallucinations", "Mental space",
-        "Technological determinism", "Urban vs. rural culture",
-        "Political metaphors", "Geopolitical tensions", "U.S. foreign policy",
-        "Revolutionary Iran", "Systemic instability", "Tit-for-tat retaliation",
-        "Chaotic geopolitics", "Narrative surprise", "Creativity in storytelling",
-        "Literary originality", "Human storytelling", "Blockchain",
-        "Decentralization", "Digital nations", "Sovereign individual",
-        "Drone warfare", "Civilian casualties", "Networked surveillance",
-        "Information overload", "Media responsibility", "Misinformation",
-        "Weaponized information", "Ethical journalism", "Writing process"
+        {
+            "keyword": "October 7th attacks", 
+            "post_title": "The Public Enemy Part 01",
+            "post_url": "https://jacklively.substack.com/p/the-public-enemy-part-01"
+        },
+        {
+            "keyword": "Hamas massacre",
+            "post_title": "The Public Enemy Part 02",
+            "post_url": "https://jacklively.substack.com/p/the-public-enemy-part-02"
+        },
+        {
+            "keyword": "Liberal democracies",
+            "post_title": "The Public Enemy Part 02",
+            "post_url": "https://jacklively.substack.com/p/the-public-enemy-part-02"
+        },
+        {
+            "keyword": "Pluralist societies",
+            "post_title": "The Public Enemy Part 02",
+            "post_url": "https://jacklively.substack.com/p/the-public-enemy-part-02"
+        },
+        {
+            "keyword": "Western values",
+            "post_title": "The Public Enemy Part 01",
+            "post_url": "https://jacklively.substack.com/p/the-public-enemy-part-01"
+        },
+        {
+            "keyword": "Nihilism in discourse",
+            "post_title": "The Public Enemy Part 02",
+            "post_url": "https://jacklively.substack.com/p/the-public-enemy-part-02"
+        },
+        {
+            "keyword": "Drone warfare", "targeted killing", "972 magazine", "Israel", "Gaza", "modern war",
+            "post_title": "Drone Warfare",
+            "post_url": "https://jacklively.substack.com/p/drone-warfare-is-not-a-gunfight"
+        },
+        {
+            "keyword": "Sovereign states", "wokeness",
+            "post_title": "The Public Enemy Part 02",
+            "post_url": "https://jacklively.substack.com/p/the-public-enemy-part-02"
+        },
+        {
+            "keyword": "Humanitarian values", "wokeness",
+            "post_title": "The Public Enemy Part 01",
+            "post_url": "https://jacklively.substack.com/p/the-public-enemy-part-01"
+        },
+        {
+            "keyword": "Middle East conflicts", "Andrew Fox", "Henry Jackson Society", "Gaza", "Human Rights", "Netanyahu",
+            "post_title": "Gaza Body Count",
+            "post_url": "https://jacklively.substack.com/p/gaza-body-count"
+        },
+        {
+            "keyword": "Writing process", "Narrative surprise", "Creativity in storytelling",
+            "post_title": "Writing a Novel: What Really Matters", "AI will never write a great book",
+            "post_url": "https://jacklively.substack.com/p/writing-a-novel-what-really-matters"
+        },
+        {
+            "keyword": "AI-generated books", "writing a novel", "Narrative surprise", "Creativity in storytelling",
+            "post_title": "AI will never write a great book",
+            "post_url": "https://jacklively.substack.com/p/ai-will-never-write-a-great-book"
+        },
+        {
+            "keyword": "Crypto politics", "Blockchain", "Reese Mogg", "Decentralization", "Digital nations", "Sovereign individual", "Trustlessness", "permissionless",
+            "post_title": "Crypto Politics",
+            "post_url": "https://jacklively.substack.com/p/crypto-politics"
+        },
+        {
+            "keyword": "Information overload", "Virilio", "Information overload", "Media responsibility", "Misinformation", "Weaponized information",
+            "post_title": "The Information Bomb",
+            "post_url": "https://jacklively.substack.com/p/the-information-bomb"
+        },
+        {
+            "keyword": "Public identity",
+            "post_title": "The Public Enemy Part 01",
+            "post_url": "https://jacklively.substack.com/p/the-public-enemy-part-01"
+        },
+        {
+            "keyword": "Civilian casualties",
+            "post_title": "Gaza Body Count",
+            "post_url": "https://jacklively.substack.com/p/gaza-body-count"
+        },
+        {
+            "keyword": "Technological determinism", "Podcasting", "bicameral mind", "julian jaynes",
+            "post_title": "The Voice in Your Head",
+            "post_url": "https://jacklively.substack.com/p/the-voice-in-your-head"
+        },
+        {
+            "keyword": "Geopolitical tensions", "Metastasis", "political metaphors",
+            "post_title": "To Escalate",
+            "post_url": "https://jacklively.substack.com/p/the-strange-language-of-escalation"
+        }
     ]
 }
